@@ -1,6 +1,4 @@
-Hospital Website Project
-"Hospital Management System"
-Overview
+Online Doctor Appointment Booking Website
 
 This project involves designing and developing a comprehensive hospital website using multiple programming languages and technologies. The website aims to provide users with an intuitive platform for accessing hospital services, scheduling appointments, managing patient records, and more.
 
